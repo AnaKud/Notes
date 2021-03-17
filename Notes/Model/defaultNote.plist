@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Press + to add new note.
+Tap on existing note to change it.
+Swipe right or press to «Edit» button to delete note. </string>
+		<key>title</key>
+		<string>Instruction</string>
+	</dict>
+</array>
+</plist>
